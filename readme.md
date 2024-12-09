@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <h4>Favorite movies: 🗿🍷</h4>
+  <h4>Favorite movies/series: 🗿🍷</h4>
   <samp>
     - Breaking Bad<br>
     - Fight Club<br>
