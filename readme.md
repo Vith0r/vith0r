@@ -1,6 +1,7 @@
 ### Hi there 👋😁
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=vith0r&show_icons=true&theme=radical" width="380">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vith0r&show_icons=true&theme=radical" width="380">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vith0r&layout=compact&show_icons=true&theme=radical&hide=html,css" width="180" style="clear: both;">
 
 <h4>About me:</h4>
 <ul>
